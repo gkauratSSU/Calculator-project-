@@ -100,7 +100,7 @@
                   <Font size="36.0" />
                </font>
             </Button>
-            <Button fx:id="clear" layoutX="11.0" layoutY="428.0" mnemonicParsing="false" onAction="#clearbutton" prefHeight="85.0" prefWidth="90.0" styleClass="highlight" text="C" textFill="WHITE">
+            <Button layoutX="11.0" layoutY="428.0" mnemonicParsing="false" onAction="#processOperators" prefHeight="85.0" prefWidth="90.0" styleClass="highlight" text="C" textFill="WHITE">
                <font>
                   <Font size="36.0" />
                </font>
